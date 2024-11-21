@@ -13,11 +13,7 @@ Save and retrieve data using text files.
 ├── bookings.txt           # Stores booking details  
 ├── users.txt              # Stores user credentials  
 ├── cabs.txt               # Stores cab details  
-## 📄 Documentation
 
-You can view the full documentation for the **Cab Booking System** here:
-
-[Download PDF Documentation](cab_booking_sytem.pdf)
 
 
 🔧 Setup Instructions

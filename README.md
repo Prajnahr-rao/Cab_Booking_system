@@ -1,6 +1,7 @@
 🚖 Cab Booking System
 A Cab Booking System built using C programming, demonstrating the use of file handling for storing and retrieving data.
 
+
 ✨ Features
 User Registration and Login System.
 Booking cabs for specific locations and time slots.
@@ -12,6 +13,12 @@ Save and retrieve data using text files.
 ├── bookings.txt           # Stores booking details  
 ├── users.txt              # Stores user credentials  
 ├── cabs.txt               # Stores cab details  
+## 📄 Documentation
+
+You can view the full documentation for the **Cab Booking System** here:
+
+[Download PDF Documentation](https://github.com/your-username/cab-booking-system/raw/main/Cab_Booking_Documentation.pdf)
+
 
 🔧 Setup Instructions
 Clone the repository:

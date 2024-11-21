@@ -34,5 +34,15 @@ Run the executable:
 Contains user credentials in the following format:
 username,password
 
-3. cabs.txt
-Contai![image](https://github.com/user-attachments/assets/9dae873d-9ab3-48af-83ca-750394b05993)
+2. cabs.txt
+Contains details of available cabs in the following format:
+Cab_ID,Driver_Name,Car_Type,Capacity,Fare_Per_KM
+ 
+4. bookings.txt
+Stores booking records in the following format:
+Booking_ID,Username,Cab_ID,Pickup_Location,Drop_Location,Distance,Total_Fare
+ 
+💻 Technologies Used
+C Programming: Core logic and flow.
+File Handling: To store and retrieve user, cab, and booking data persistently.
+
